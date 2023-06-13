@@ -3,7 +3,7 @@
 💚 2000.08.10 <br>
 📞 010-2287-6873 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:disappointed123419@gmail.com)](mailto:disappointed123419@gmail.com) <span><a href="[https://www.notion.so/3b772d5e640945bcbc6898805aaa0bdf](https://www.notion.so/36c68f5b9842423789d3ddea65e69b87)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:disappointed123419@gmail.com)](mailto:disappointed123419@gmail.com) <span><a href="https://pickle-fragrance-a8e.notion.site/628e95d5b7ac439882adda81fce3302d?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
