@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=HyunJinChung&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=HyunJin_Chung&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <h3 align="center">Hi! I'm HyunJin </h3>
 <p align="center"><a href="disappointed123419@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:disappointed123419@gmail.com)](mailto:disappointed123419@gmail.com)"/></a>&nbsp
